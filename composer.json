@@ -1,0 +1,13 @@
+{
+    "name": "alessandro/world-info",
+    "description": "Php simple web application showing world's countries, cities and languages",
+    "type": "project",
+    "license": "GNU GPL",
+    "authors": [
+        {
+            "name": "MrAlessandro",
+            "email": "alessandro.meschi@icloud.com"
+        }
+    ],
+    "require": {}
+}
