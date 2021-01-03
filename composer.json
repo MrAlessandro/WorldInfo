@@ -1,13 +1,18 @@
 {
-    "name": "alessandro/world-info",
-    "description": "Php simple web application showing world's countries, cities and languages",
-    "type": "project",
-    "license": "GNU GPL",
-    "authors": [
-        {
-            "name": "MrAlessandro",
-            "email": "alessandro.meschi@icloud.com"
-        }
-    ],
-    "require": {}
+  "name": "alessandro/world-info",
+  "description": "Php simple web application showing world's countries, cities and languages",
+  "minimum-stability": "stable",
+  "license": "GNU GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "MrAlessandro",
+      "email": "alessandro.meschi@icloud.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "require-dev": {
+    "scssphp/scssphp": "^1.3"
+  }
 }
